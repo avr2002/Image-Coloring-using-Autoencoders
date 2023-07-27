@@ -21,3 +21,7 @@ $\rightarrow$ For fututre references:
 $\rightarrow$ Serrano Academy
 - [Autoencoders](https://youtu.be/DG7YTlGnCEo)
 - [Neural Networks & GANs](https://youtube.com/playlist?list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+
+$\rightarrow$ Code Emporium
+- [Autoencoders - EXPLAINED](https://youtu.be/7mRfwaGGAPg)
+- [Variational Autoencoders - EXPLAINED!](https://youtu.be/fcvYpzHmhvA)
