@@ -20,7 +20,7 @@ $\rightarrow$ Sample Outputs
     <img src="output/output_1.png"/>
     <img src="output/output_2.png"/>
     <img src="output/output_4.png"/>
-</dvi>
+</div>
 * **
 
 $\rightarrow$ This Project was inspired by [Emil Waller](https://github.com/emilwallner)
