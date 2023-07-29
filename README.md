@@ -1,8 +1,27 @@
 # Image-Coloring-using-Autoencoders-and-Deep-Transfer-Learning
 
 
-**This Project is Incomplete**
+**This Project is Incomplete and will be work in progress**
 
+> [LinkedIn Post for this Project](https://www.linkedin.com/posts/amit-vikram-raj-883460207_github-avr2002image-coloring-using-autoencoders-activity-7089085400996020224-Oulu?utm_source=share&utm_medium=member_desktop)
+
+$\rightarrow$ **Approach**
+- I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
+
+- Although it was coloring my B/W images, but results were not satisfactory. [See notebooks](https://github.com/avr2002/Image-Coloring-using-Autoencoders/tree/main/notebooks)
+
+- Some great minds have worked on this problem before, like @EmilWallner and Richard Zhang(@rzhang88), both on Twitter. Their approaches were a bit complex to grasp for me, **for now**. So, I decided to give this project some rest.
+
+* **
+
+$\rightarrow$ Sample Outputs
+<div align='center'>
+    <img src="output/output_3.png"/>
+    <img src="output/output_1.png"/>
+    <img src="output/output_2.png"/>
+    <img src="output/output_4.png"/>
+</dvi>
+* **
 
 $\rightarrow$ This Project was inspired by [Emil Waller](https://github.com/emilwallner)
 
